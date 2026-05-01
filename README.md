@@ -134,15 +134,3 @@ Navigation trajectories are extracted via:
 - A* path planning on predicted maps
 - Video interpolation for smooth trajectories
 
-## Citation
-
-If you use this code, please cite:
-
-```
-@article{mapdream2026,
-  title={Dual-MapNav: Task-Driven Map Learning for Vision-Language Navigation},
-  author={},
-  journal={arXiv},
-  year={2026}
-}
-```
