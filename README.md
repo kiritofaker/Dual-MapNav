@@ -1,7 +1,3 @@
-# Dual-MapNav
-
-Implementation of **Dual-MapNav: Task-Driven Map Learning for Vision-Language Navigation** (arXiv 2026).
-
 ## Overview
 
 Dual-MapNav proposes a novel approach to Vision-Language Navigation (VLN) by formulating map learning as a **conditional video generation** task. Using a pretrained Video Diffusion Model, Dual-MapNav generates future bird's-eye view (BEV) maps from current observations and text instructions.
